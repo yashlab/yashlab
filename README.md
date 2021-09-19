@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 <h3>About Me</h3>
