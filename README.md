@@ -2,7 +2,10 @@
 
 <h3>About Me</h3>
 
-I am currently working at [Whitehat Jr.](https://www.whitehatjr.com/) as a Analyst - Data Science for User Retention and Curriculum Experience. Earlier, I was part of Maketing Analytics and Claims Solutions teams at [EXL Analytics](https://www.exlservice.com/).
+I am currently working at [Shiprocket](https://www.shiprocket.com/) as a Data Scientist solving pressing challenges in the logistics and D2C commerce industry.
+Earlier, I have held the following roles:
+1. Analyst - Data Science for User Retention and Curriculum Experience at [Whitehat Jr.](https://www.whitehatjr.com/). 
+2. Consultant - Maketing Analytics and Claims Solutions teams at [EXL Analytics](https://www.exlservice.com/).
 
 My interests are in data driven decision making and applying analytics to complex business problems. I also like to follow latest research works happening in the broder AI and Computing domain. Besides that, I am usually building up some DIY projects, taking up some course or hanging out with my friends.
 
